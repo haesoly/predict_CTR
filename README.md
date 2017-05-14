@@ -1,8 +1,8 @@
 Predicting Vingle Card's CTR
 ==========
 
-- impressions_count: 배너 광고가 노출된 횟수
-- clicks_count: 실제 클릭으로 연결된 비율
+- **impressions_count**: 배너 광고가 노출된 횟수
+- **clicks_count**: 실제 클릭으로 연결된 횟수
 - clicks_count와 impressions_count를 구하는 2가지 OLS 모형
 
 <br />
