@@ -4,7 +4,9 @@ Predicting Vingle Card's CTR
 
 Work Flow
 -
+
 <br />
+
 ![workflow](./image/workflow.png)
 
 Final Model
@@ -19,6 +21,7 @@ Final Model
 ![final_model_impressions](./image/final_model_impressions.png)
 
 <br />
+
 Prediction
 -
 
