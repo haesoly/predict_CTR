@@ -5,6 +5,8 @@ Predicting Vingle Card's CTR
 Work Flow
 -
 
+- clicks_count와 impressions_count를 구하는 2가지 OLS 모형을 만듬
+
 <br />
 
 ![workflow](./image/workflow.png)
